@@ -1,0 +1,54 @@
+p {color:red; 
+    font-size:20px;
+    font-family:Courier;
+    border:2px;
+    border-color:blue;
+    border-style:solid;
+    
+    width:100px; 
+    height:100px;
+    
+    overflow: scroll
+   }
+   p {color:red; 
+    font-size:10px;
+    font-family:Courier;
+    border:2px;
+    border-color:blue;
+    border-style:solid;
+    width:200px; 
+    height:100px;
+    
+    background: yellow;   
+   }
+   p {color:red; 
+    font-size:10px;
+    font-family:Courier;
+    border:2px;
+    border-color:blue;
+    border-style:solid;
+    width:200px; 
+    height:100px;
+    
+    background-image: url(fondo.jpg);  
+    background-attachment: fixed;
+    background-repeat: repeat;
+   }
+   p {color:red; 
+    font-size:10px;
+    font-family:Verdana;
+    border:2px;
+    border-color:blue;
+    border-style:solid;
+    width:200px; 
+    height:100px;
+   }
+
+  header{
+    width:5cm;
+    left: 1cm;
+    position: relative;
+    border:2px solid;
+    align-content:left;
+  }
+  

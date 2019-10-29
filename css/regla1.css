@@ -1,0 +1,46 @@
+body{    
+    background: url(Imagenes/logo.jpg);
+     background-attachment: scroll;
+ 
+   } 
+
+   h4{
+    font-size: 50px;
+  color:rgb(107, 49, 49);
+  text-align: center;
+  border: blue;
+}
+ image{
+  width: 5cm;
+  left: 330px;
+  height: 3.75cm;
+position: relative;
+align-items: center;
+border:2px solid;
+}
+  div{
+ font-size: 10px;
+  }
+
+  
+    iframe{
+    font-size: 20px;
+    width: 5cm;
+    height: 5cm;
+    position: relative;
+    align-items: center;
+    border: 12px solid;
+  }
+
+  p {color: beige; 
+    font-size:20px;
+    font-family:Courier;
+    border:2px;
+    border-color:black;
+    border-style:solid;
+    width:100px; 
+    height:100px;
+    overflow: scroll
+  
+
+  }

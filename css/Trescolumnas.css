@@ -1,0 +1,67 @@
+.Encabezado {
+    width: 99%;
+    float: left;
+    border: #1d4b4d 1px solid;
+    margin: 0.25cm;
+}
+
+.Menu {
+    width: 25%;
+    float: left;
+    border: red 1px solid;
+    -webkit-border-radius: 20px;
+    background-color: #7B9DD5;
+}
+
+nav a {
+    margin: 5px;
+    text-decoration: none;
+    line-height: 25px;
+}
+
+article {
+    width: 50%;
+    float: left;
+    margin: 0.25cm;
+    position: relative;
+    height: 100px;
+}
+
+.pie {
+    width: 100%;
+    float: left;
+    border: #1d4b4d 1px solid;
+}
+
+.Ima {
+    width: 5cm;
+    left: 330px;
+    height: 3.75cm;
+  position: relative;
+  border:2px solid;
+}
+body {
+    background-color: #201f22;
+}
+.contenido {
+    width: 5cm;
+    float: left;
+    margin: 0.25cm;
+    height: 3.75cm;
+}
+#navegacion {
+    width: 25%;
+    float: left;
+    border: red 1px solid;
+    -webkit-border-radius: 20px;
+    background-color: #7B9DD5;
+}
+div{
+    height: 530px;
+    width: 500px;
+    background: #5900ff;
+    margin: 20px 50px;
+    padding: 30px;
+    border: 10px solid #000;
+    display: inline-block;
+    }

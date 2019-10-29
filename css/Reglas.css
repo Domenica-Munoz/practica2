@@ -1,0 +1,59 @@
+/*html {    background-color: hsl(27, 72%, 72%); 
+}*/
+
+body{    
+     background: url(Imagenes/fondo1.jpg);
+
+      background-attachment: scroll;
+     color:black;
+     background-position: 100px 0;
+    } 
+
+.titulos{
+    width: 52%;
+    position: relative;
+    left: 552px;
+   
+}
+
+h2 {
+    font-size: 1cm;
+    color: blue;
+}
+
+h3 {
+    font-size: 0.95cm;
+    color: blue;
+}
+
+h4 {
+    font-size: 1cm;
+    color: #3f737b;
+    text-align: center;
+}
+
+p {
+    color:#f5f3f3;
+}
+
+ol li {
+    color:#f5f3f3;
+}
+
+tr {
+    color: #f5f3f3;
+}
+
+label {
+    color: #f5f3f3;
+}
+
+a {
+    color:#f5f3f3;
+    
+
+    }
+    li{
+        color:#f5f3f3;
+    
+    }

@@ -1,0 +1,83 @@
+#titulo {
+    width: 99%;
+    float: left;
+    border: #f5f3f3 0.5px solid;
+    margin: 0.25cm;
+}
+.titulos{
+    border: #f5f3f3 0.5px solid;
+    margin: 0.25cm;
+}
+#navegacion {
+    width: 25%;
+    float: left;
+    border: red 1px solid;
+    -webkit-border-radius: 20px;
+    background-color: #7B9DD5;
+}
+.titulos{
+    width: 99%;
+    float: left;
+    border: #f5f3f3;
+    margin: 0.25cm;
+}
+
+nav a {
+    margin: 5px;
+    text-decoration: none;
+    line-height: 25px;
+}
+
+.contenido {
+    width: 5cm;
+    float: left;
+    margin: 0.25cm;
+    height: 3.75cm;
+}
+
+.Pie {
+    width: 100%;
+    float: left;
+    border: #1d4b4d 1px solid;
+}
+
+#index {
+    background-color: #f5f3f3;
+}
+
+#Formu {
+    background-color: #f5f3f3;
+}
+
+.Ima {
+    width: 5cm;
+    left: 330px;
+    height: 3.75cm;
+  position: relative;
+  border:2px solid;
+}
+
+.Menu {
+    width: 25%;
+    float: left;
+    border: red 1px solid;
+    -webkit-border-radius: 20px;
+    background-color: #7B9DD5;
+}
+
+#for {
+    line-height: 40px;
+}
+
+#largo {
+    height: 275px;
+}
+div{
+height: 530px;
+width: 500px;
+background: #5900ff;
+margin: 20px 50px;
+padding: 30px;
+border: 10px solid #000;
+display: inline-block;
+}
